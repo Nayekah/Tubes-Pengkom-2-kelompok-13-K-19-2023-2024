@@ -1,16 +1,14 @@
-### Hi there 👋
+# Tugas Besar 2 Pengenalan Komputasi 2023-2024
+Ini adalah tugas besar 2 pengenalan komputasi kelompok 13 K-19
 
-<!--
-**Nayekah/Nayekah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Anggota  :
+1. Dimas Anggiat (16523052) / Flowchart
+2. Julian Benedict (16523178) / Exploration
+3. Nayaka Ghana Subrata (19623031) / Creator of the source code
+4. Karol Yangqian Poetracahya (19623206) / Problems decomposer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Requirements
+- Visual Studio Code (VSC)
+- Jupyter Notebook
+- Google Colab
+- Internet connections
