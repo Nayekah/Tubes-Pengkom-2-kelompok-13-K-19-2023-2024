@@ -12,3 +12,6 @@ Ini adalah tugas besar 2 pengenalan komputasi kelompok 13 K-19
 - Jupyter Notebook
 - Google Colab
 - Internet connections
+
+# Note
+Jika laporan tidak bisa dibuka, refresh atau download langsung laporan
